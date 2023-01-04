@@ -1,6 +1,6 @@
 # WaterBottle Vending Machine FSM in C
 
-## Incomplete ( no C implementation yet due to errrors :( )
+#### Incomplete ( no C implementation yet due to errrors :( )
 ##### Note: Subject to change.
 
 ## Introduction

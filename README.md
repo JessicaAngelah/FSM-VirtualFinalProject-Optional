@@ -1,5 +1,7 @@
 # WaterBottle Vending Machine FSM in C
 
+Incomplete ( no C implementation yet due to errrors :( )
+
 ## Introduction
 This is a simple vending machine controller modelled by FSM in C. 
 

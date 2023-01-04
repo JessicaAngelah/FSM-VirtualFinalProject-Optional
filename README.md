@@ -15,6 +15,7 @@ This is a simple vending machine controller modelled by FSM in C.
 
 ### This is the K-Map
 ![image](images/4.png)
-![image](images/3.jpg)
+![image](images/3a.jpg)
+![image](images/3b.jpg)
 
 

@@ -21,3 +21,4 @@ This is a simple vending machine controller modelled by FSM in C.
 ![image](images/3b.jpg)
 
 
+##Simulation of the system in C

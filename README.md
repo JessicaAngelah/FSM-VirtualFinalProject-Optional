@@ -17,11 +17,13 @@ This is a simple Alarm Clock modelled by FSM in C.
 ![image](images/3.png)
 
 ## Testing
-![image](images/4.png)
-> This is the alarm clock at "IDLE" state.
- 
-![image](images/5.png)
-> This is the alarm clock at "ring" state.
 
-![image](images/6.png)
+> This is the alarm clock at "IDLE" state.
+![image](images/4.png)
+
+ > This is the alarm clock at "ring" state.
+![image](images/5.png)
+
 > This is the alarm clock at "snooze" state.
+![image](images/6.png)
+

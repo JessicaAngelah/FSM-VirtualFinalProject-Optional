@@ -14,7 +14,7 @@ This is a simple Alarm Clock modelled by FSM in C.
 
 
 ## K-map with combinatorial boolean equations
-![image](images/3.png)
+![image](images/image.png)
 
 ## How to run
 > Type in the terminal

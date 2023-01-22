@@ -16,6 +16,16 @@ This is a simple Alarm Clock modelled by FSM in C.
 ## K-map with combinatorial boolean equations
 ![image](images/3.png)
 
+## How to run
+> Type in the terminal
+```c
+gcc -o main.exe main.c
+```
+> and then enter and type in the terminal
+```c
+./main.exe
+```
+
 ## Testing
 
 > This is the alarm clock at "IDLE" state.

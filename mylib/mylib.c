@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 void states(int s0, int s1, int X, int Y, int* A, int* B){
-    int NS = *A + *B;
+    int NS = B + A*;
 
-    int A = s0 * s1;
+    int A = Y + X*;
 
-    int B = X * Y;
+    int Y = X*;
 }
